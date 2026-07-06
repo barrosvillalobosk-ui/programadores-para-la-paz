@@ -1,0 +1,10 @@
+Diseño de una automatización simple
+
+¿Qué evento activa el flujo?
+Cuando un coordinador cambia el estado de un reporte a **"Resuelto"** en la plataforma.
+
+¿Qué mensaje se enviaría a Telegram?
+"Un reporte ha sido marcado como resuelto. Revise el sistema para consultar los detalles y actualizar el seguimiento."
+
+¿Qué información no debería enviarse por seguridad?
+No se deben enviar nombres de los ciudadanos, números de identificación, direcciones, teléfonos, correos electrónicos, contraseñas, enlaces privados ni ningún otro dato personal o confidencial.

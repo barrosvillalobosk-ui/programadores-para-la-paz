@@ -1,0 +1,10 @@
+
+1. Como ciudadano quiero adjuntar una fotografía al reporte para mostrar la evidencia del problema.
+
+2. Como coordinador quiero asignar cada reporte a un responsable para garantizar un seguimiento adecuado.
+
+3. Como miembro del equipo quiero filtrar los reportes por estado para encontrar la información de forma más rápida.
+
+4. Como administrador quiero generar un resumen de los reportes registrados para conocer las necesidades más frecuentes de la comunidad.
+
+5. Como ciudadano quiero consultar el estado de mi reporte para saber si ya fue atendido o continúa en proceso.

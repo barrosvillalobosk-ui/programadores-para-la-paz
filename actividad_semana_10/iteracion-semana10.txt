@@ -1,0 +1,18 @@
+¿Qué 2 tareas del backlog harías primero?
+
+1. Permitir que el ciudadano adjunte una fotografía al reporte.
+2. Asignar automáticamente cada reporte a un responsable para su seguimiento.
+
+¿Por qué son las más importantes?
+
+Porque las fotografías ayudan a respaldar la información reportada y facilitan la verificación del caso. Además, asignar un responsable desde el inicio permite dar seguimiento oportuno y evitar que los reportes queden sin atender.
+
+¿Qué significa para ti que una tarea esté "terminada"?
+
+Una tarea está terminada cuando cumple con los siguientes criterios:
+
+Funciona correctamente según lo esperado.
+
+Fue probada y no presenta errores.
+
+Quedó registrada en Git mediante un commit.
