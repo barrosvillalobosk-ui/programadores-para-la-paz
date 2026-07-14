@@ -1,0 +1,10 @@
+Automatización con n8n o Telegram
+
+Evento que activa la automatización:
+Un ciudadano registra un nuevo apoyo a una petición.
+
+Mensaje que se envía:
+"Se ha registrado un nuevo apoyo a la petición. Revisa la plataforma para conocer el número actualizado de participantes."
+
+Información que no debe enviarse por seguridad:
+No se deben enviar nombres completos, números de identificación, teléfonos, direcciones, correos electrónicos ni otros datos personales de los ciudadanos para proteger su privacidad.

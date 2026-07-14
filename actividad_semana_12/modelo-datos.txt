@@ -1,0 +1,22 @@
+Modelo básico de datos
+
+Entidad: Ciudadano
+
+id: Identificador único del ciudadano.
+nombre: Nombre de la persona.
+correo: Correo electrónico de contacto.
+fecha_registro: Fecha en la que se registró en la plataforma.
+
+¿Para qué sirve?
+Esta entidad almacena la información básica de los ciudadanos que participan apoyando las causas.
+
+Entidad: Petición
+
+id: Identificador único de la petición.
+titulo: Nombre de la petición.
+descripcion: Explicación del objetivo de la petición.
+ciudadano_id: Identificador del ciudadano que creó la petición.
+fecha_creacion: Fecha en que fue creada.
+
+¿Para qué sirve?
+Esta entidad almacena las peticiones creadas por los ciudadanos y las relaciona con su autor para facilitar su gestión y seguimiento.

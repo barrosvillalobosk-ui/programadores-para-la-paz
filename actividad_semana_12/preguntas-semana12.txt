@@ -1,0 +1,4 @@
+Pregunta 1: b
+Pregunta 2: b
+Pregunta 3: a
+Pregunta 4: a
